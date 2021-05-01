@@ -12,3 +12,9 @@
     background-color:#66ccff;
     border:5px solid #ff00ff;
 }
+
+.box {
+    width: 270px;
+    height: 270px;
+    background-color:#333399;
+}
